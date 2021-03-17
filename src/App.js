@@ -5,7 +5,7 @@ import { Switch, Route } from "react-router-dom";
 import MainView from './components/MainView/MainView'
 import DetailView from './components/DetailView/DetailView'
 import SearchBar from './components/SearchBar/SearchBar'
-// import Footer from './components/Footer/Footer'
+import Footer from './components/Footer/Footer'
 
 // const backendUrl = "https://poke-express-api.herokuapp.com/api/pokemon"
 const pokeUrl = "https://pokeapi.co/api/v2/pokemon?limit=20"
@@ -41,6 +41,7 @@ function App() {
 
         </Switch>
 
+        <Footer />
         {/* Placeholder for FOOTER */}
 
       </div>
