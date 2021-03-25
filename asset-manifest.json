@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/poke-react/static/css/main.9653b5c0.chunk.css",
-    "main.js": "/poke-react/static/js/main.bfd1edbe.chunk.js",
-    "main.js.map": "/poke-react/static/js/main.bfd1edbe.chunk.js.map",
+    "main.js": "/poke-react/static/js/main.9102288a.chunk.js",
+    "main.js.map": "/poke-react/static/js/main.9102288a.chunk.js.map",
     "runtime-main.js": "/poke-react/static/js/runtime-main.a555a0c5.js",
     "runtime-main.js.map": "/poke-react/static/js/runtime-main.a555a0c5.js.map",
-    "static/js/2.78824fb0.chunk.js": "/poke-react/static/js/2.78824fb0.chunk.js",
-    "static/js/2.78824fb0.chunk.js.map": "/poke-react/static/js/2.78824fb0.chunk.js.map",
+    "static/js/2.214c79b1.chunk.js": "/poke-react/static/js/2.214c79b1.chunk.js",
+    "static/js/2.214c79b1.chunk.js.map": "/poke-react/static/js/2.214c79b1.chunk.js.map",
     "index.html": "/poke-react/index.html",
     "static/css/main.9653b5c0.chunk.css.map": "/poke-react/static/css/main.9653b5c0.chunk.css.map",
-    "static/js/2.78824fb0.chunk.js.LICENSE.txt": "/poke-react/static/js/2.78824fb0.chunk.js.LICENSE.txt",
+    "static/js/2.214c79b1.chunk.js.LICENSE.txt": "/poke-react/static/js/2.214c79b1.chunk.js.LICENSE.txt",
     "static/media/index.css": "/poke-react/static/media/pokeback.e51fffcb.png",
     "static/media/pokemon-image.fc761376.png": "/poke-react/static/media/pokemon-image.fc761376.png",
     "static/media/spinner.94cd27f1.gif": "/poke-react/static/media/spinner.94cd27f1.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.a555a0c5.js",
-    "static/js/2.78824fb0.chunk.js",
+    "static/js/2.214c79b1.chunk.js",
     "static/css/main.9653b5c0.chunk.css",
-    "static/js/main.bfd1edbe.chunk.js"
+    "static/js/main.9102288a.chunk.js"
   ]
 }
